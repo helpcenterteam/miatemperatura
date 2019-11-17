@@ -1,0 +1,22 @@
+{
+  "name": "miatemperatura",
+  "version": "1.0.0",
+  "description": "Esempio di lettura della temperatura in una stanza",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomirco/miatemperatura.git"
+  },
+  "author": "mirco leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leomirco/miatemperatura/issues"
+  },
+  "homepage": "https://github.com/leomirco/miatemperatura#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
